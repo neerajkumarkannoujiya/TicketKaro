@@ -1,0 +1,231 @@
+[
+  {
+    "train_id": "deo_gkp_ndls",
+    "train_no": "15021",
+    "seats": [
+      [1, 0, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 0, 1, 0, 0, 1]
+    ],
+    "station_times": {
+      "deoria": "06:00:00",
+      "gorakhpur": "07:30:00",
+      "lucknow": "10:00:00",
+      "kanpur": "12:00:00",
+      "delhi": "16:00:00"
+    },
+    "stations": ["deoria", "gorakhpur", "lucknow", "kanpur", "delhi"],
+    "train_info": "Deoria-Delhi Express"
+  },
+  {
+    "train_id": "gkp_ndls",
+    "train_no": "12509",
+    "seats": [
+      [1, 0, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 0, 1, 0, 0, 1]
+    ],
+    "station_times": {
+      "gorakhpur": "08:00:00",
+      "lucknow": "10:30:00",
+      "kanpur": "12:30:00",
+      "delhi": "17:00:00"
+    },
+    "stations": ["gorakhpur", "lucknow", "kanpur", "delhi"],
+    "train_info": "Gorakhpur-Delhi Superfast"
+  },
+  {
+    "train_id": "vns_ndls",
+    "train_no": "14265",
+    "seats": [
+      [1, 0, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 0, 1, 0, 0, 1]
+    ],
+    "station_times": {
+      "varanasi": "09:00:00",
+      "allahabad": "11:00:00",
+      "kanpur": "13:00:00",
+      "delhi": "18:00:00"
+    },
+    "stations": ["varanasi", "allahabad", "kanpur", "delhi"],
+    "train_info": "Varanasi-Delhi Express"
+  },
+  {
+    "train_id": "deo_vns",
+    "train_no": "15015",
+    "seats": [
+      [1, 0, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 0, 1, 0, 0, 1]
+    ],
+    "station_times": {
+      "deoria": "07:00:00",
+      "gorakhpur": "08:30:00",
+      "varanasi": "11:00:00"
+    },
+    "stations": ["deoria", "gorakhpur", "varanasi"],
+    "train_info": "Deoria-Varanasi Passenger"
+  },
+  {
+    "train_id": "lko_ndls",
+    "train_no": "12004",
+    "seats": [
+      [1, 0, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 0, 1, 0, 0, 1]
+    ],
+    "station_times": {
+      "lucknow": "07:00:00",
+      "kanpur": "08:30:00",
+      "delhi": "12:00:00"
+    },
+    "stations": ["lucknow", "kanpur", "delhi"],
+    "train_info": "Lucknow-Delhi Shatabdi"
+  },
+  {
+    "train_id": "ald_ndls",
+    "train_no": "14217",
+    "seats": [
+      [1, 0, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 0, 1, 0, 0, 1]
+    ],
+    "station_times": {
+      "allahabad": "10:00:00",
+      "kanpur": "12:00:00",
+      "delhi": "16:00:00"
+    },
+    "stations": ["allahabad", "kanpur", "delhi"],
+    "train_info": "Allahabad-Delhi Express"
+  },
+  {
+    "train_id": "ndls_garib",
+    "train_no": "14055",
+    "seats": [
+      [1, 0, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 0, 1, 0, 0, 1]
+    ],
+    "station_times": {
+      "delhi": "06:00:00",
+      "kanpur": "10:30:00",
+      "allahabad": "13:00:00",
+      "varanasi": "16:00:00",
+      "gorakhpur": "19:00:00"
+    },
+    "stations": ["delhi", "kanpur", "allahabad", "varanasi", "gorakhpur"],
+    "train_info": "Poorva Express"
+  },
+  {
+    "train_id": "lko_ndls",
+    "train_no": "12004",
+    "seats": [
+      [1, 0, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 0, 1, 0, 0, 1]
+    ],
+    "station_times": {
+      "lucknow": "07:00:00",
+      "kanpur": "08:30:00",
+      "delhi": "12:00:00"
+    },
+    "stations": ["lucknow", "kanpur", "delhi"],
+    "train_info": "Shatabdi Express"
+  },
+  {
+    "train_id": "gkp_ald",
+    "train_no": "15017",
+    "seats": [
+      [1, 0, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 0, 1, 0, 0, 1]
+    ],
+    "station_times": {
+      "gorakhpur": "08:00:00",
+      "deoria": "09:00:00",
+      "varanasi": "11:00:00",
+      "allahabad": "14:00:00"
+    },
+    "stations": ["gorakhpur", "deoria", "varanasi", "allahabad"],
+    "train_info": "Gorakhpur-Allahabad Express"
+  },
+  {
+    "train_id": "bza_ndls",
+    "train_no": "12591",
+    "seats": [
+      [1, 0, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 0, 1, 0, 0, 1]
+    ],
+    "station_times": {
+      "varanasi": "09:00:00",
+      "allahabad": "11:00:00",
+      "kanpur": "13:00:00",
+      "delhi": "18:00:00"
+    },
+    "stations": ["varanasi", "allahabad", "kanpur", "delhi"],
+    "train_info": "Vaishali Express"
+  },
+  {
+    "train_id": "lko_gkp",
+    "train_no": "15019",
+    "seats": [
+      [1, 0, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 0, 1, 0, 0, 1]
+    ],
+    "station_times": {
+      "lucknow": "10:00:00",
+      "gorakhpur": "14:00:00"
+    },
+    "stations": ["lucknow", "gorakhpur"],
+    "train_info": "Lucknow-Gorakhpur Intercity"
+  },
+  {
+    "train_id": "dli_vns",
+    "train_no": "14265",
+    "seats": [
+      [1, 0, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 0, 1, 0, 0, 1]
+    ],
+    "station_times": {
+      "delhi": "20:00:00",
+      "kanpur": "01:00:00",
+      "allahabad": "04:00:00",
+      "varanasi": "07:00:00"
+    },
+    "stations": ["delhi", "kanpur", "allahabad", "varanasi"],
+    "train_info": "Kashi Vishwanath Express"
+  },
+  {
+    "train_id": "gkp_deo",
+    "train_no": "15013",
+    "seats": [
+      [1, 0, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 1, 0, 0, 0, 0],
+      [0, 0, 1, 0, 0, 1]
+    ],
+    "station_times": {
+      "gorakhpur": "06:00:00",
+      "deoria": "07:00:00",
+      "varanasi": "09:00:00"
+    },
+    "stations": ["gorakhpur", "deoria", "varanasi"],
+    "train_info": "Gorakhpur-Varanasi Passenger"
+  }
+]
